@@ -1,0 +1,7 @@
+{
+  "name": "Foto Food 5.4.53",
+  "description": "Um aplicativo de câmera inteligente que usa IA para editar fotos de comida, tornando-as mais apetitosas. Tire uma foto, escolha um estilo ou descreva a edição desejada e compartilhe sua criação.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
